@@ -54,11 +54,19 @@ I’m open to collaborations 👯 on **Full‑Stack Development**.
 
 ## 🚀 Recent Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| **📚 Bookstore UI** | A modern React + TypeScript frontend connected to a modular Book Repository API, with user auth, book listings & dynamic forms. | [Repo](https://github.com/sidneyvonex/Book-Store-Api) |
-| **🍽️ Restaurant Frontend** | A full-featured React + Tailwind CSS food ordering interface with login, menu browsing, and admin dashboard. | [Repo](https://github.com/sidneyvonex/React-Fulldemo-Project) |
+Here are a few of my recent works:
 
+### 📚 Bookstore UI
+> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API. Features include user auth, book listings, and dynamic forms.
+
+🔗 [GitHub Repo](https://github.com/sidneyvonex/Book-Store-Api)
+
+---
+
+### 🍽️ Restaurant Frontend Project
+> A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
+
+🔗 [GitHub Repo](https://github.com/sidneyvonex/React-Fulldemo-Project)
 ---
 
 ## 📝 Blog
