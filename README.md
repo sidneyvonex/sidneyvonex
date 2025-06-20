@@ -29,6 +29,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidneyvonex&theme=dark&hide_border=true)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidneyvonex&show_icons=true&locale=en&layout=compact" alt="sidneyvonex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidneyvonex&show_icons=true&locale=en" alt="sidneyvonex" /></p>
