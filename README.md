@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidneyvonex" alt="sidneyvonex" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Websites**
+- 🔭 I’m currently working on **Creating both Front End and Backend Projects**
 
-- 👯 I’m looking to collaborate on **Android Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sidneygithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidneygithu" height="30" width="40" /></a>
-<a href="https://instagram.com/s_1dney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_1dney" height="30" width="40" /></a>
-</p>
+- 👯 I’m looking to collaborate on **Full-Stack Development**
 
 ## 🧰 Languages & Tools
 
@@ -38,3 +32,43 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidneyvonex&show_icons=true&locale=en&layout=compact" alt="sidneyvonex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidneyvonex&show_icons=true&locale=en" alt="sidneyvonex" /></p>
+
+
+## 🚀 Recent Projects
+
+Here are a few of my recent works:
+
+### 📚 Bookstore UI
+> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API. Features include user auth, book listings, and dynamic forms.
+
+🔗 [GitHub Repo](https://github.com/sidneyvonex/Book-Store-Api)
+
+---
+
+### 🍽️ Restaurant Frontend Project
+> A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
+
+🔗 [GitHub Repo](https://github.com/sidneyvonex/React-Fulldemo-Project)
+
+---
+
+## 📰 Blog Posts
+
+<!-- Replace this with actual blog feed integration if you have a blog -->
+*Coming soon: Technical write-ups, project breakdowns, and tutorials!*
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://twitter.com/sidneygithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidneygithu" height="30" width="40" /></a>
+<a href="https://instagram.com/s_1dney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_1dney" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+📍 Location: Nairobi, Kenya  
+📧 Email: sidneyvonex@gmail.com
