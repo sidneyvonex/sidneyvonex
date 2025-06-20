@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidneyvonex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sidneyvonex&theme=radical" alt="Trophies" />
 </p>
 
@@ -10,7 +13,7 @@
 
 ## 🔭 About Me
 
-I'm currently working on **full-stack applications** — building both frontend and backend projects.
+I'm currently working on **full-stack applications** — building both frontend and backend projects.  
 I’m open to collaborations 👯 on **Full‑Stack Development**.
 
 ---
@@ -54,37 +57,43 @@ I’m open to collaborations 👯 on **Full‑Stack Development**.
 
 ## 🚀 Recent Projects
 
-Here are a few of my recent works:
-
 ### 📚 Bookstore UI
-> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API. Features include user auth, book listings, and dynamic forms.
-
+A clean and modern frontend built with **React** and **TypeScript**, connected to a modular Book Repository API.  
+Features include user authentication, book listings, and dynamic form handling.  
 🔗 [GitHub Repo](https://github.com/sidneyvonex/Book-Store-Api)
 
 ---
 
 ### 🍽️ Restaurant Frontend Project
-> A full-featured food ordering interface using React and Tailwind CSS. Supports login, registration, menu browsing, and admin dashboard integration with charts and stats.
-
+A full-featured food ordering interface using **React** and **Tailwind CSS**.  
+Supports login, registration, menu browsing, and admin dashboard with charts and statistics.  
 🔗 [GitHub Repo](https://github.com/sidneyvonex/React-Fulldemo-Project)
+
 ---
 
 ## 📝 Blog
 
-*(Coming soon—stay tuned!)*
+📰 *Coming soon — tutorials, project breakdowns, and articles!*
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/sidneygithu" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/s_1dney" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30" /></a>
+  <a href="https://twitter.com/sidneygithu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/s_1dney" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sidneyndungu/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 **📍 Location:** Nairobi, Kenya  
 **✉️ Email:** sidneyvonex@gmail.com  
